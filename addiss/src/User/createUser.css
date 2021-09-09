@@ -1,0 +1,41 @@
+.userList_container {
+	margin: 10px;
+	display: grid;
+	grid-template-columns: repeat(3, 4fr);
+	column-gap: 30px;
+	row-gap: 20px;
+	border-radius: 5px;
+}
+.modal_upd {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-bottom: 10px;
+	box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.2);
+	margin-top: 40px;
+	background-color: whitesmoke;
+	width: 70%;
+	border-radius: 10px;
+	padding-bottom: 40px;
+}
+
+.create_user {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 40px;
+}
+.crflex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cooll {
+	color: rgb(17, 121, 153);
+}
+.Container::-webkit-scrollbar {
+	display: none;
+}

@@ -1,5 +1,7 @@
 ### MERN_DOCKER
 
+some things
+
 ##### SERVER PART
 ###### build: 
 	run the line of code below to build backend server
